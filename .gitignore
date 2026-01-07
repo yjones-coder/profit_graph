@@ -1,0 +1,18 @@
+# --- Secrets (NEVER UPLOAD) ---
+profit_config.py
+.env
+secrets.json
+
+# --- Python Junk ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Logs & Temp Data ---
+logs/
+*.log
+temp/
+batch_log.txt
+
+# --- OS Junk ---
+.DS_Store
